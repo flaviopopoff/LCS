@@ -1,4 +1,4 @@
 # Project exclude paths
-/target/
 /.idea/
+/target/
 /asdl1920mp3.iml/
